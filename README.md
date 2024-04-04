@@ -1,6 +1,6 @@
 # writer-identification-
 
-Description
+
 The Handwriting Recognition using Neural Networks project is designed to identify individuals by their handwriting. It utilizes image processing techniques and deep learning neural networks to recognize and distinguish unique handwriting styles.
 
 Features

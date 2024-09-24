@@ -9,6 +9,7 @@ The model's performance was evaluated using metrics like accuracy, loss, and con
 Technologies Used:
 
 Image Processing: OpenCV, NumPy, and Scikit-image for segmentation, noise removal, and contour detection.
+
 Deep Learning: TensorFlow, Keras, and the pre-trained ResNet101 architecture for feature extraction and classification.
 Data Augmentation: Keras ImageDataGenerator to increase the variability of training samples.
 Model Evaluation: Confusion matrices, accuracy, and loss metrics to assess the model's performance on validation and test sets.
